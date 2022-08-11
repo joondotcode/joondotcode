@@ -5,6 +5,10 @@
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40s1n_s1nstyle)](https://twitter.com/s1n_s1nstyle)
 ---
 
+<img
+  src="https://github.com/s1nstyle/s1nstyle/blob/main/images/stat.svg"
+  alt="s1nstyle WakaTime Activity"
+/>
 <!--
 **s1nstyle/s1nstyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
