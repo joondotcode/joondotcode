@@ -6,6 +6,13 @@
 ---
 
 <!--START_SECTION:waka-->
+
+```text
+From: 04 August 2022 - To: 11 August 2022
+
+TypeScript   20 mins         █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
 
 <!--
