@@ -8,12 +8,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 September 2022 - To: 27 September 2022
+From: 21 September 2022 - To: 28 September 2022
 
-TypeScript   7 hrs 25 mins   ██████████████████████▒░░   89.23 %
-JSON         53 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.63 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+TypeScript   34 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
