@@ -2,6 +2,7 @@
 #### *I am a Web3 Full Stack Developer 👨🏽‍💻*
 #### *I co-founded [KAM1](https://kam1.com) and have a passion in coding!*
 #### *I am a developer at [FacadeNFT](https://facade-home.vercel.app/)!*
+#### Here is my [personal portfolio](https://s1n.vercel.app/)!
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40s1n_s1nstyle)](https://twitter.com/s1n_s1nstyle)
 ---
