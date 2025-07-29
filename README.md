@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=s1nstyle&label=Profile%20views&color=0e75b6&style=flat" alt="s1nstyle" /> </p>
 
 <h3 align="center">
-  <a href="YOUR_PORTFOLIO_URL_HERE" target="_blank">
+  <a href="https://joondotcode.dev" target="_blank">
     🌐 View My Portfolio
   </a>
 </h3>
